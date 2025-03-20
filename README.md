@@ -1,4 +1,5 @@
 💻 Projeto: Consumo de APIs com Python
+
 🧩 Descrição
 Este projeto tem como objetivo consumir diferentes APIs utilizando Python e a biblioteca requests. Ele implementa o padrão de projeto Strategy, permitindo adicionar novos consumidores de API sem modificar o código principal.
 
