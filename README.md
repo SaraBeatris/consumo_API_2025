@@ -33,12 +33,16 @@ pip install -r requirements.txt
 python main.py
 📈 Instalações
 Tive que criar uma Máquina Virtual e aqui está alguns passos que tive que dar
+
 ▶️ Criar um Ambiente virtual
 python -m venv venv
 venv\Scripts\activate
+
 ▶️ Instalar as dependências
 pip install -r requirements.txt
+
 ▶️ Executar o script principal
 python main.py
+
 👊 Sempre Atualizando
 Com o passar da disciplina vou estar dando comits para melhorar o meu conhecimento e garantir cada vez mais prática no consumo das APIs
