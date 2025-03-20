@@ -16,6 +16,7 @@ consumo_API_2025/
 ├── main.py          # Arquivo principal para execução
 ├── README.md        # Documentação do projeto
 ├── requirements.txt # Dependências do projeto
+
 📈 Instalações/Windowns:
 Tive que criar uma Máquina Virtual e aqui está alguns passos que tive que dar
 
