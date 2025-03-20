@@ -16,21 +16,6 @@ consumo_API_2025/
 ├── main.py          # Arquivo principal para execução
 ├── README.md        # Documentação do projeto
 ├── requirements.txt # Dependências do projeto
-🔧 Instalação e Configuração
- 1. Clonar o repositório
-git clone https://github.com/SaraBeatris/consumo_API_2025.git
-cd consumo_API_2025
- 2. Criar um ambiente virtual e ativá-lo
-No Linux/Mac:
-python -m venv venv
-source venv/bin/activate
-No Windows:
-python -m venv venv
-venv\Scripts\activate
-3. Instalar as dependências
-pip install -r requirements.txt
- 4. Executar o script principal
-python main.py
 📈 Instalações
 Tive que criar uma Máquina Virtual e aqui está alguns passos que tive que dar
 
