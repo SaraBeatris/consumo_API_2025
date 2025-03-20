@@ -19,8 +19,11 @@ consumo_API_2025/
 
 📈 Instalações/Windowns:
 Tive que criar uma Máquina Virtual e aqui está alguns passos que tive que dar
+
 ▶️ Clonar o repositorio
-link : https://github.com/SaraBeatris/consumo_API_2025
+git clone https://github.com/SaraBeatris/consumo_API_2025.git
+cd consumo_API_2025
+
 ▶️ Criar um Ambiente virtual
 python -m venv venv
 venv\Scripts\activate
